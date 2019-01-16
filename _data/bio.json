@@ -75,7 +75,7 @@
       "endDate": "Present",
       "gpa": "3.14",
       "courses": [
-      ]
+      
     }
   ],
   "work": [
@@ -83,7 +83,7 @@
       "company": "Kaimuki High School",
       "position": "AVID Tutor",
       "website": "",
-      "startDate": "Auguest - 2017",
+      "startDate": "August 2017",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -94,7 +94,7 @@
     {
       "company": "WSP USA",
       "position": "Intern",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "September 2016",
       "endDate": "May 2017",
       "summary": "",
