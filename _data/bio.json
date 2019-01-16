@@ -2,7 +2,7 @@
   "basics": {
     "name": "Gum San Aung",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "gumsanaung.github.io/images/70488267-5F13-4C7E-B2B1-C1AFFABB0885.jpeg",
     "email": "aunggum@hawaii.edu",
     "phone": "808-436-4975",
     "website": "https://gumsanaung.github.io",
@@ -29,14 +29,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "programming",
       "keywords": [
       ]
     },
@@ -51,12 +49,9 @@
       "name": "Languages and Frameworks",
       "level": "Begineer",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "Javascript"
       ]
     },
     {
@@ -66,8 +61,8 @@
         "Windows 10",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse",
+        "SSH"
       ]
     }
   ],
@@ -78,61 +73,49 @@
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.14",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kaimuki High School",
+      "position": "AVID Tutor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "Auguest - 2017",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Tutor students on all high school subjects",
+        "Advise students as a peer adisvor for colege applications and general academic questions"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "WSP USA",
+      "position": "Intern",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "September 2016",
+      "endDate": "May 2017",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Update CAD Designs",
+        "Create Isometric Drawings",
+        "Update Project Inventories",
+        "On-Site Inspections (UH Manoa: Wainani I)",
+        "Update Archived Materials"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Hanwoori,
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Event Coorinator",
+      "startDate": "August 2018",
+      "endDate": "Present",
+      "summary": "In charge of creating club activities",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
@@ -142,17 +125,11 @@
       "date": "2017-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
