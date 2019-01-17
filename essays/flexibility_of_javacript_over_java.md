@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Flexibility of JavaScript over Java
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-16
+date: 2019-01-16
 labels:
   - JavaScript
   - Java
