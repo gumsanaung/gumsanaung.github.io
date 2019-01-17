@@ -2,7 +2,7 @@
   "basics": {
     "name": "Gum San Aung",
     "label": "Student",
-    "picture": "gumsanaung.github.io/images/70488267-5F13-4C7E-B2B1-C1AFFABB0885.jpeg",
+    "picture": "gumsanaung.github.io/images/portrait.JPG",
     "email": "aunggum@hawaii.edu",
     "phone": "808-436-4975",
     "website": "https://gumsanaung.github.io",
@@ -76,6 +76,14 @@
       "gpa": "3.14",
       "courses": [
       ]
+    },
+    {
+      "institution": "Kaimuki High School, Honolulu, HI",
+      "Academy": "STEM",
+      "studyType": "High School Diploma",
+      "startDate": "2015",
+      "endDate": "2017",
+      "gpa": "3.7"
     }
   ],
   "work": [
@@ -88,7 +96,8 @@
       "summary": "",
       "highlights": [
         "Tutor students on all high school subjects",
-        "Advise students as a peer adisvor for colege applications and general academic questions"
+        "Advise students as a peer adisvor", 
+        "Leading class activities"
       ]
     },
     {
@@ -115,7 +124,10 @@
       "startDate": "2018",
       "endDate": "Present",
       "summary": "In charge of creating club activities",
-      "highlights": [
+      "highlights": [ 
+        "Create Schedule",
+        "Apply for Funds",
+        "Remade Club's Constitution and Bylaws"
       ]
     }
   ],
@@ -125,6 +137,12 @@
       "date": "2017-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Hawaii Self Storage Scholarship",
+      "date": "2017-Present",
+      "awarder": "Hawaii Self Storage",
+      "summary": "Scholarship awarded to applicants who completed an essay related to topics provided by Hawaii Self Storage."
     }
   ],
   "references": [
