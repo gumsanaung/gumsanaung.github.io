@@ -2,7 +2,7 @@
   "basics": {
     "name": "Gum San Aung",
     "label": "Student",
-    "picture": "gumsanaung.github.io/images/portrait.JPG",
+    "picture": "https://gumsanaung.github.io/images/portrait.JPG",
     "email": "aunggum@hawaii.edu",
     "phone": "808-436-4975",
     "website": "https://gumsanaung.github.io",
@@ -18,12 +18,12 @@
       {
         "network": "github",
         "username": "gumsanaung",
-        "url": "http://github.com/gumsanaung"
+        "url": "https://github.com/gumsanaung"
       },
       {
         "network": "linkedin",
         "username": "Gum Aung",
-        "url": "http://linkedin.com/in/gum-aung-7a814b178"
+        "url": "https://linkedin.com/in/gum-aung-7a814b178"
       }
     ]
   },
