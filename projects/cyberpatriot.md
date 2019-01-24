@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: http://ky216.kywg.cap.gov/wp-content/uploads/2018/08/cyberpatriotr.png
+image: ky216.kywg.cap.gov/wp-content/uploads/2018/08/cyberpatriotr.png
 title: CyberPatriot
 permalink: projects/cyberpatriot
 date: 2019-01-23
