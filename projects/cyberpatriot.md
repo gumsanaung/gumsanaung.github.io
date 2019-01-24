@@ -10,7 +10,7 @@ labels:
   - Competition
 summary: Competed in Gold and Platinum Tier in All Service Division
 ---
-<img class="ui medium right floated rounded image" src="images/cyberpatriot.png">
+<img class="ui medium right floated rounded image" src="/images/cyberpatriot.png">
 
 ## Network Security Challenge
 
