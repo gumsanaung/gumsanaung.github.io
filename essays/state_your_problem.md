@@ -10,7 +10,7 @@ labels:
   - Effective Users of Technology
 ---
 
- <img class="ui medium center floated rounded image" src="https://spinsucks.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-20-at-6.38.09-AM.png">
+ <img class="ui large centered rounded image" src="https://spinsucks.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-20-at-6.38.09-AM.png">
  
  I am a firm believer of a saying that “there are no such things as stupid questions and that stupid questions are the ones you do not ask.” However, I also do believe that you should not ask questions without any contexts or put out a query for ones for which an answer already exists. These simple, yet elegant, principles also happen to be the basis in Eric Steven Raymond’s How To Ask Questions The Smart Way. 
 Most of the people on sites like Stack Overflow are volunteers and they have their own schedule. This means that they can not spend a lot of time trying to answer the questions on the site. It is a very good idea then to provide only relevant and precise detail of the problem and ask for comments of advice for that section. This skill to ask a question effectively will be of great benefit when you go into your professional career, especially as a “smart” software developer. 
@@ -27,4 +27,4 @@ This thread, on the other hand, was downvoted multiple time, a signal of a “no
 
 ## Personal Reflection
 
-After review Eric S. Raymond’s guide, I am reinforced to the idea of using online websites like Stack Overflow as a place of guidance, rather than a place for straight forward answers, and became aware of the qualities that makes a “smart” question. I learned not only to write “smart” questions but also develop an idea of the characteristics that distinguish them.
+After review Eric S. Raymond’s guide, I am reinforced to the idea of using online websites like Stack Overflow as a place of guidance, rather than a place for straight forward answers, and became aware of the qualities that makes up a “smart” question. I learned not only to write “smart” questions but also to look out for characteristics that distinguishes them when I am looking through the threads.
