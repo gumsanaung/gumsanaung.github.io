@@ -8,8 +8,8 @@
     "website": "https://gumsanaung.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "910 Kapahulu Ave Suite 607",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -29,17 +29,32 @@
   },
   "interests": [
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "programming",
+      "name": "Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Networking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "High Performance Computing",
       "keywords": [
       ]
     }
