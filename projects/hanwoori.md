@@ -17,6 +17,4 @@ Hanwoori Hawaii is a club that I am currently as of Spring 2019 at UH Manoa. Han
 
 When I joined the board in Spring 2018, the constitution and bylaws of the club were extremely unorganized and lacked many of the standard sections and articles that other clubs would usually have. Without a proper constitution and bylaws to hold up the club, we could not create a bank account to keep our funds safe. This led to my proposal of a newer updated version of the constitution and bylaws. It was submitted November 11th of 2018 and approved on November 27th of 2018. This was the largest reform that the club went through since its creation 5 or 6 years ago. We can now expand the activities of the club and continue its growth with a stronger foundation. 
 
-If you are interested in the club, please feel free to read about it at:
-
-http://www.manoanow.org/kaleo/special_issues/heart-mind-and-seoul/article_cf53bd5a-1d30-11e9-95d2-ef6c40cd66c0.html
+If you are interested in the club, please feel free to read an article at [Ka Leo](http://www.manoanow.org/kaleo/special_issues/heart-mind-and-seoul/article_cf53bd5a-1d30-11e9-95d2-ef6c40cd66c0.html).
