@@ -23,4 +23,5 @@ This was perhaps the hardest part of the competition we have every came across. 
 
 <img class="ui medium centered rounded image" src="/images/bulldogs.JPG">
 From left to right: Keri, Brian, Edward, Gum, Mark
+
 Missing: Kenshin, Jerome
