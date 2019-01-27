@@ -17,11 +17,11 @@ Most of the people on sites like Stack Overflow are volunteers and they have the
 
 ## Examples:
 
-https://stackoverflow.com/questions/54338168/js-jquery-replace-inner-text-without-destroy-event
+[Good Example](https://stackoverflow.com/questions/54338168/js-jquery-replace-inner-text-without-destroy-event)
 
 This question is a good example of what a “smart” question should be. The user explained portions of his code that worked and what did not along with the precise variables that were causing a problem. The thread was also organized with a nice description of a problem and a code snippet followed by a rough idea of the user’s understanding of how the code should work. Instead of leaving a question for other users to answer, the thread asked for advices about ways to resolve the issue. The post was resolved very fast under 23 total views since upload. This mean that other users found this user’s thread interesting and worth the effort to help and that really make this question a “smart” question.
 
-https://stackoverflow.com/questions/54339785/how-to-get-books-cover-through-isbn-number-in-oracle-apex-application-5
+[Bad Example](https://stackoverflow.com/questions/54339785/how-to-get-books-cover-through-isbn-number-in-oracle-apex-application-5)
 
 This thread, on the other hand, was downvoted multiple time, a signal of a “not smart” question, and showed that the user did not post any information of use for other users to get started with. There was no attempt to do the actual problem and all the question only asked to provide the full code. The question seems to be a searchable web result, or a light read through the manual of the program that problem is based on.
 
