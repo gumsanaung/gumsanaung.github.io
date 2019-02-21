@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Making Web Design Convenient
-date: 2015-08-26
+date: 2019-02-20
 labels:
   - Software Engineering
   - Framework
