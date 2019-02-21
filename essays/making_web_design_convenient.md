@@ -9,7 +9,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui medium center floated rounded image" src="/images/semantic_ui_main.PNG">
+<img class="ui large centered floated rounded image" src="/images/semantic_ui_main.PNG">
 
 UI Frameworks are very different from what I imagined it to be. I thought they would make my programming easier but that is not the case at all. A framework are better to be seen as a bunch of pre-made methods that you can use. It is like giving an bush to a printer to use instead of a hair. In the end, you still have to paint the canvas with it. It makes getting things done a bit faster but it does not mean that the task is any less complex. 
 
