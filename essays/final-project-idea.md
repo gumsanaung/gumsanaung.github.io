@@ -16,6 +16,7 @@ Problem:
 As students takes new classes, they needs new supplies. The cost of which are extremely high to buy from bookstore and online retailers. 
 
 Solution:
+
 This project provides a place where students casually sell their items that they no longer need but others may find useful. 
 
 Description:
