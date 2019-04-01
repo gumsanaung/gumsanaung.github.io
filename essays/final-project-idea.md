@@ -35,6 +35,14 @@ The likely pages for this project are:
 - Rating Page
 - Profile Page
 
+### Case Ideas
+
+New User ---> Sign Up ---> Browse Items
+
+Users ---> Log In ---> Sell Items
+
+Users ---> Buy Items ---> Rank Experience ---> Read Other Reviews
+
 ### ADVANCED FEATURES
 The users will use have log in to even view the inventory and if we have any changes for advanced features, we will try to 
 - use the UH CAS Login so that student can be directly verified as a UH student
