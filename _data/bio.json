@@ -29,27 +29,12 @@
   },
   "interests": [
     {
-      "name": "Data Science",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Security",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Networking",
+      "name": "Operating Systems",
       "keywords": [
       ]
     },
@@ -64,8 +49,10 @@
       "name": "Languages and Frameworks",
       "level": "Begineer",
       "keywords": [
+        "C",
         "Java",
         "HTML",
+        "CSS",
         "Javascript"
       ]
     },
@@ -73,12 +60,12 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows 10",
-        "Ubuntu",
+        "Ubuntu, MacOS and Other UNIX-based OS",
         "GitHub",
         "Eclipse",
         "Meteor",
-        "React"
+        "React",
+        "Atom"
       ]
     }
   ],
@@ -108,7 +95,7 @@
       "position": "AVID Tutor",
       "website": "",
       "startDate": "2017",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
         "Tutor students on all high school subjects",
@@ -156,8 +143,7 @@
       "endDate": "Present",
       "summary": "Participating in two Special Interest Groups(SIG)",
       "highlights": [
-        "ACI (Algorithms for Competitions and Interviews)",
-        "Grey Hats"
+        "ACI (Algorithms for Competitions and Interviews)"
       ]
     }
   ],
@@ -169,10 +155,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "Hawaii Self Storage Scholarship",
+      "title": "Waialae Self-Storage Scholarship",
       "date": "2017-Present",
-      "awarder": "Hawaii Self Storage",
-      "summary": "Scholarship awarded to applicants who completed an essay related to topics provided and met academic criteria by Hawaii Self Storage."
+      "awarder": "Waialae Self-Storage",
+      "summary": "Scholarship awarded to applicants who completed an essay related to topics provided and met academic criteria by Waialae Self-Storage."
     }
   ],
   "references": [
