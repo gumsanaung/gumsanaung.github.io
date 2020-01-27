@@ -4,12 +4,9 @@
     "label": "Student",
     "picture": "https://gumsanaung.github.io/images/portrait.JPG",
     "email": "aunggum@hawaii.edu",
-    "phone": "808-436-4975",
     "website": "https://gumsanaung.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "910 Kapahulu Ave Suite 607",
-      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -91,6 +88,18 @@
   ],
   "work": [
     {
+      "company": "City and County of Honolulu",
+      "position": "Intern",
+      "website": "Present",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Po'okela Fellows Internship Program",
+        "Working as a web developer for Honolulu Fire Department(HFD)"
+      ]
+    },
+    {
       "company": "Kaimuki High School",
       "position": "AVID Tutor",
       "website": "",
@@ -143,7 +152,7 @@
       "endDate": "Present",
       "summary": "Participating in two Special Interest Groups(SIG)",
       "highlights": [
-        "ACI (Algorithms for Competitions and Interviews)"
+        "PANDA (Programming and Algorithms) Formerly Know As {ACI (Algorithms for Competitions and Interviews)}"
       ]
     }
   ],
