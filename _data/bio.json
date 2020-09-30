@@ -27,42 +27,41 @@
   "interests": [
     {
       "name": "Software Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
-      "name": "Operating Systems",
-      "keywords": [
-      ]
+      "name": "Web Development",
+      "keywords": ["Angular"]
     },
     {
-      "name": "High Performance Computing",
-      "keywords": [
-      ]
+      "name": "Bioinfomatics",
+      "keywords": []
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Begineer",
-      "keywords": [
-        "C",
-        "Java",
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Java", "HTML", "CSS", "JavaScript", "TypeScript"]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
         "Ubuntu, MacOS and Other UNIX-based OS",
+        "Windows",
         "GitHub",
         "Eclipse",
         "Meteor",
         "React",
-        "Atom"
+        "Angular",
+        "IIS",
+        "MS Office",
+        "Requests",
+        "BeautifulSoup",
+        "lxml",
+        "BioPython",
+        "Visual Studio Code"
       ]
     }
   ],
@@ -73,8 +72,15 @@
       "studyType": "B.S.",
       "startDate": "2017",
       "endDate": "Present",
-      "gpa": "3.19",
+      "gpa": "3.37",
       "courses": [
+        "Operating Systems",
+        "Database Systems (SQL)",
+        "Data Networks",
+        "Concurrent Programming",
+        "Data Science Fundamentals",
+        "Data Vizualization",
+        "Algorithms"
       ]
     },
     {
@@ -89,14 +95,29 @@
   "work": [
     {
       "company": "City and County of Honolulu",
-      "position": "Intern",
-      "website": "http://www.honolulu.gov/hr/pookela.html",
-      "startDate": "2019",
+      "position": "STUDENT AIDE III",
+      "website": "",
+      "startDate": "2020",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Po'okela Fellows Internship Program",
-        "Working as a web developer for Honolulu Fire Department (HFD)"
+        "Worked as a web developer for Honolulu Fire Department (HFD)",
+        "Accepted into contract work after internship",
+        "August 2020 - Present"
+      ]
+    },
+    {
+      "company": "City and County of Honolulu",
+      "position": "Intern",
+      "website": "http://www.honolulu.gov/hr/pookela.html",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Po'okela Fellows Internship Program Jan 2020 - June 2020",
+        "Worked as a web developer for Honolulu Fire Department (HFD)",
+        "Cohort Team Leader",
+        "Certificate of Recognition rewarded by Mayor Kirk Caldwell"
       ]
     },
     {
@@ -130,6 +151,42 @@
   ],
   "volunteer": [
     {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Vice President",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Mentor 6th to 12th graders in Oahu about web dev",
+      "highlights": [
+        "Regular Member since Jan 2020",
+        "Vice President since August 2020",
+        "Oersee training and make decision as Executive Board member"
+      ]
+    },
+    {
+      "organization": "Programming and Algorithms (PANDAS)",
+      "website": "https://acmanoa.github.io/",
+      "position": "Event Coordinator",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Create activities to increase participation and diversity",
+      "highlights": [
+        "Formerly Known As {ACI (Algorithms for Competitions and Interviews)}",
+        "Special Interest Group (SIG) under ACM@MANOA"
+      ]
+    },
+    {
+      "organization": "Association for Computing Machinery at Manoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "Participating in one Special Interest Groups(SIG)",
+      "highlights": [
+        "PANDA (Programming and Algorithms) Formerly Known As {ACI (Algorithms for Competitions and Interviews)}"
+      ]
+    },
+    {
       "organization": "Hanwoori",
       "website": "",
       "position": "Event Coorinator",
@@ -142,17 +199,6 @@
         "Remade Club's Constitution and Bylaws",
         "Regular Membership: Fall 2017 - Spring 2018",
         "Event Coordinator: Fall 2018 - Spring 2019"
-      ]
-    },
-    {
-      "organization": "Association for Computing Machinery at Manoa",
-      "website": "https://acmanoa.github.io/",
-      "position": "Member",
-      "startDate": "2017",
-      "endDate": "Present",
-      "summary": "Participating in one Special Interest Groups(SIG)",
-      "highlights": [
-        "PANDA (Programming and Algorithms) Formerly Known As {ACI (Algorithms for Competitions and Interviews)}"
       ]
     }
   ],
